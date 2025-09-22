@@ -1,2 +1,2 @@
-# Visualizaci-n-de-datos
+# Visualizacion-de-datos
 Proyectos de la clase
